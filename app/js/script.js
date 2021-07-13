@@ -5,8 +5,7 @@ const overlay = document.querySelector('.overlay');
 const fadeElems = document.querySelectorAll('.has-fade');
 
 btnHamburger.addEventListener('click', function(){
-    console.log('click hamburuger');
-
+    
     if (header.classList.contains('open')) { // Close Hamburger Menu
         body.classList.remove('noscroll');
         header.classList.remove('open');
