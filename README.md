@@ -19,9 +19,3 @@ Simple static page for banking app. Response for mobile, tablets and desktop scr
 - Mobile-first workflow
 - JavaScript
 
-## Author
-
-### My social
-
-- Instagram - [@ya_abdurrhman](https://www.instagram.com/ya_abdurrahman/)
-- Facebook - [@Abdurrhamn Spahic](https://www.facebook.com/abdurrahman.spahic/
